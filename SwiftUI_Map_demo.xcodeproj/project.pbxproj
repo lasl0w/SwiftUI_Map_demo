@@ -11,6 +11,8 @@
 		F19FA6422ABC04830035B61D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19FA6412ABC04830035B61D /* ContentView.swift */; };
 		F19FA6442ABC04840035B61D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F19FA6432ABC04840035B61D /* Assets.xcassets */; };
 		F19FA6472ABC04840035B61D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F19FA6462ABC04840035B61D /* Preview Assets.xcassets */; };
+		F19FA64E2AC11F870035B61D /* BeantownButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19FA64D2AC11F870035B61D /* BeantownButtons.swift */; };
+		F1D167D02AC4E8CB00BE3279 /* ItemInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D167CF2AC4E8CB00BE3279 /* ItemInfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		F19FA6412ABC04830035B61D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F19FA6432ABC04840035B61D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F19FA6462ABC04840035B61D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F19FA64D2AC11F870035B61D /* BeantownButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeantownButtons.swift; sourceTree = "<group>"; };
+		F1D167CF2AC4E8CB00BE3279 /* ItemInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemInfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				F19FA6412ABC04830035B61D /* ContentView.swift */,
 				F19FA6432ABC04840035B61D /* Assets.xcassets */,
 				F19FA6452ABC04840035B61D /* Preview Content */,
+				F19FA64D2AC11F870035B61D /* BeantownButtons.swift */,
+				F1D167CF2AC4E8CB00BE3279 /* ItemInfoView.swift */,
 			);
 			path = SwiftUI_Map_demo;
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				F19FA6422ABC04830035B61D /* ContentView.swift in Sources */,
+				F19FA64E2AC11F870035B61D /* BeantownButtons.swift in Sources */,
 				F19FA6402ABC04830035B61D /* SwiftUI_Map_demoApp.swift in Sources */,
+				F1D167D02AC4E8CB00BE3279 /* ItemInfoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
